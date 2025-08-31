@@ -106,7 +106,7 @@ This project delivers a **cost-effective, portable, and IoT-enabled cold chain m
 
 ## Working Video
 
-https://youtu.be/VkGJgjt75Lw
+https://www.youtube.com/watch?v=paciNifnVkM
 ---
 
 ## Troubleshooting & Known Issues
@@ -126,3 +126,4 @@ https://youtu.be/VkGJgjt75Lw
 ## License
 
 This project is open-source and available under the MIT License.
+
